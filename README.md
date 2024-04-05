@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm CODER TG</h1>
 <h3 align="center">Crafting the digital world as a Web Developer</h3>
 
-<img src="path_to_your_image.jpg" alt="CODER" style="display: block; margin: auto; border-radius: 50%; width: 150px; height: 150px;">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gift" alt="Coder" width="400">
+
 
 - 🔭 I’m currently working on **Web Development**
 
