@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://telegram.dog/acodertg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acodertg" height="30" width="40" /></a>  
+<a href="https://telegram.dog/acodertg" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/10/17/13/21/telegram-5662082_1280.png" alt="acodertg" height="30" width="40" /></a>  
 <a href="https://instagram.com/acodertg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acodertg" height="30" width="40" /></a>
 </p>
 
