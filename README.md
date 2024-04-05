@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm CODER TG</h1>
 <h3 align="center">Crafting the digital world as a Web Developer</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" width="400">
-
-
 - 🔭 I’m currently working on **Web Development**
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" width="400">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://telegram.dog/acodertg" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/534/original/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" alt="acodertg" height="30" width="40" /></a>  
